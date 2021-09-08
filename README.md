@@ -7,4 +7,4 @@ Specifically, the file "LSTM_regression.m" trains the LSTM model parameters, whi
 Both the training data set and the testing data set are from the open data of "Battery and Heating Data in Real Driving Cycles"*
 
 ----------------------------------------------------
-* https://ieee-dataport.org/open-access/battery-and-heating-data-real-driving-cycles
+* The open data repository is: https://ieee-dataport.org/open-access/battery-and-heating-data-real-driving-cycles
